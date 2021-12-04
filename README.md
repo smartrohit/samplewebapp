@@ -33,10 +33,13 @@ $(Pipeline.Workspace)
 	- The local path on the agent where all folders for a given build pipeline are created.
 
 ASP.NET CORE Deployment Series:https://www.youtube.com/watch?v=KceoqTcf4Lk&list=PLNNeqe21-U0PJGMvVuG8XKEZSrr8aJiz7
+
 AWS DevOps: https://www.youtube.com/watch?v=j7xjHBNi85g&t=347s
+
 Azure Service Connection: https://www.youtube.com/watch?v=18BhQicsRao&t=604s
 
 Website: https://devopsmela.in
+
 Instagram: @DevOpsMela
 
 
