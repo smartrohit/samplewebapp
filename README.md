@@ -19,12 +19,15 @@ Flow:
 Commands:
 
 // This will allow to track new POD creation
+
 kubectl get pods --watch
 
 // We will then install the kubectl tool
+
 az aks install-cli --install-location=./kubectl
 
 // This allows kubectl to connect to the Kubernetes cluster
+
 az aks get-credentials --resource-group devopsmela-rg --name devopsmelaAKS 
 
 Pre-defined Variables:
